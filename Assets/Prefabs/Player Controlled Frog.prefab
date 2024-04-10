@@ -189,3 +189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tonguePrefab: {fileID: 2568186881683171269, guid: f227d92c0101ed24880edf32e6572c39, type: 3}
+  jumpCooldown: 1
+  jumpSpeed: 1
+  jumpDistance: 2
+  rotationDelay: 1
